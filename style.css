@@ -1,16 +1,30 @@
+header {
+  text-align: center;
+  height: 80px;
+  padding-top: 30px;
+}
+
 h1 {
-  font-size: 22px;
+  font-size: 24px;
   text-align: center;
 }
 
-header {
-
-}
 
 main {
-
+  height: 380px;
+  margin: 0 20% 0 20%;
+  border: 1px solid blue;
 }
 
-footer {
+.headform {
+  text-align: center;
+  padding-top: 5px;
+}
 
+#cityresult {
+  padding-top: 5px;
+} 
+
+footer {
+  text-align: center;
 }

@@ -9,10 +9,10 @@
 </head>    
 <body>
   <header>
-    <h1>Välj vilket län du vill se trädgårdar ifrån</h1>
+    <h1>Välj vilket län du vill se kommunerna ifrån</h1>
   </header>
   <main>
-    <form>
+    <form class="headform">
         <select id="landscapeMenu">
           <option>Välj län</option>
           <option value="blekinge">Blekinge</option>
@@ -36,10 +36,12 @@
           <option value="vastragotaland">Västra götaland</option>
           <option value="orebro">Örebro</option>
           <option value="ostergotland">Östergötland</option>
-        </select>             
+        </select>       
+
+        <div id="cityresult"></div>      
   </main>    
 
-  <div id="cityresult"></div>
+  
 
   <footer>
     <p>En AJAX övning där jag använt mig av XML för att lagra datat.</p>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE varmland_objects SYSTEM "varmland.dtd">
+
+<landscape>
+  <landscapename>Värmland</landscapename>
+		<city>
+			<name>Arvika</name>
+		</city>
+		<city>
+			<name>Eda</name>
+		</city>
+		<city>
+			<name>Filipstad</name>
+		</city>
+		<city>
+			<name>Forshaga</name>
+		</city>
+		<city>
+			<name>Grums</name>
+		</city>
+		<city>
+			<name>Hagfors</name>
+		</city>
+		<city>
+			<name>Hammarö</name>
+		</city>
+		<city>
+			<name>Karlstad</name>
+		</city>
+		<city>
+			<name>Kil</name>
+		</city>
+		<city>
+			<name>Kristinehamn</name>
+		</city>
+		<city>
+			<name>Munkfors</name>
+		</city>
+		<city>
+			<name>Storfors</name>
+		</city>
+		<city>
+			<name>Sunne</name>
+		</city>
+		<city>
+			<name>Säffle</name>
+		</city>
+		<city>
+			<name>Torsby</name>
+		</city>
+		<city>
+			<name>Årjäng</name>
+		</city>
+</landscape>  

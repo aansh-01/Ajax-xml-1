@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE gotland_objects SYSTEM "gotland.dtd">
+
+<landscape>
+  <landscapename>Gotland</landscapename>
+		<city>
+      <name>Gotland</name>
+    </city>
+</landscape>    

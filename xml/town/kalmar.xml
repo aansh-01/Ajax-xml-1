@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE kalmar_objects SYSTEM "kalmar.dtd">
+
+<landscape>
+  <landscapename>Kalmar</landscapename>
+		<city>
+			<name>Borgholm</name>
+		</city>
+		<city>
+			<name>Emmaboda</name>
+		</city>
+		<city>
+			<name>Hultsfred</name>
+		</city>
+		<city>
+			<name>Högsby</name>
+		</city>
+		<city>
+			<name>Kalmar</name>
+		</city>
+		<city>
+			<name>Mönsterås</name>
+		</city>
+		<city>
+			<name>Mörbylånga</name>
+		</city>
+		<city>
+			<name>Nybro</name>
+		</city>
+		<city>
+			<name>Oskarshamn</name>
+		</city>
+		<city>
+			<name>Torsås</name>
+		</city>
+		<city>
+			<name>Vimmerby</name>
+		</city>
+		<city>
+			<name>Västervik</name>
+		</city>
+</landscape> 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE norrbotten_objects SYSTEM "norrbotten.dtd">
+
+<landscape>
+  <landscapename>Norrbotten</landscapename>
+		<city>
+			<name>Arjeplog</name>
+		</city>
+		<city>
+			<name>Arvidsjaur</name>
+		</city>
+		<city>
+			<name>Boden</name>
+		</city>
+		<city>
+			<name>Gällivare</name>
+		</city>
+		<city>
+			<name>Haparanda</name>
+		</city>
+		<city>
+			<name>Jokkmokk</name>
+		</city>
+		<city>
+			<name>Kalix</name>
+		</city>
+		<city>
+			<name>Kiruna</name>
+		</city>
+		<city>
+			<name>Luleå</name>
+		</city>
+		<city>
+			<name>Pajala</name>
+		</city>
+		<city>
+			<name>Piteå</name>
+		</city>
+		<city>
+			<name>Älsbyn</name>
+		</city>
+		<city>
+			<name>Överkalix</name>
+		</city>
+		<city>
+			<name>Övertorneå</name>
+		</city>
+</landscape> 

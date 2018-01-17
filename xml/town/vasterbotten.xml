@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE vasterbotten_objects SYSTEM "vasterboten.dtd">
+
+<landscape>
+  <landscapename>Västerbotten</landscapename>
+		<city>
+			<name>Bjurholm</name>
+		</city>
+		<city>
+			<name>Dorotea</name>
+		</city>
+		<city>
+			<name>Lycksele</name>
+		</city>
+		<city>
+			<name>Malå</name>
+		</city>
+		<city>
+			<name>Nordmalin</name>
+		</city>
+		<city>	
+			<name>Norsjö</name>
+		</city>
+		<city>
+			<name>Robertsfors</name>
+		</city>
+		<city>
+			<name>Skellefteå</name>
+		</city>
+		<city>
+			<name>Sorsele</name>
+		</city>
+		<city>
+			<name>Storuman</name>
+		</city>
+		<city>
+			<name>Umeå</name>
+		</city>
+		<city>
+			<name>Vilhelmina</name>
+		</city>
+		<city>
+			<name>Vindelns</name>
+		</city>
+		<city>
+			<name>Vännäs</name>
+		</city>
+		<city>
+			<name>Åsele</name>
+		</city>
+</landscape>  

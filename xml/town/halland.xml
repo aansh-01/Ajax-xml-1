@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE halland_objects SYSTEM "halland.dtd">
+
+<landscape>
+		<landscapename>Halland</landscapename>
+		<city>
+			<name>Falkenberg</name>
+		</city>
+		<city>
+			<name>Halmstad</name>
+		</city>
+		<city>
+			<name>Hylte</name>
+		</city>
+		<city>
+			<name>Kungsbacka</name>
+		</city>
+		<city>
+			<name>Laholm</name>
+		</city>
+		<city>
+			<name>Varberg</name>
+		</city>
+	</landscape>

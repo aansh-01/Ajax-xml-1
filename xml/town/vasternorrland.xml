@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE vasternorrland_objects SYSTEM "vasternorrland.dtd">
+
+<landscape>
+  <landscapename>Västernorrland</landscapename>
+		<city>
+			<name>Härnösand<name>
+		</city>
+		<city>
+			<name>Kramfors<name>
+		</city>
+		<city>
+			<name>Sollefteå<name>
+		</city>
+		<city>
+			<name>Sundsvall<name>
+		</city>
+		<city>
+			<name>Timrå<name>
+		</city>
+		<city>
+			<name>Ånge<name>
+		</city>
+		<city>
+			<name>Örnsköldsvik<name>
+		</city>
+</landscape>  

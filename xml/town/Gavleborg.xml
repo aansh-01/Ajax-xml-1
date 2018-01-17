@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE gavleborg_objects SYSTEM "gavleborg.dtd">
+
+<landscape>
+  <landscapename>Gävleborg</landscapename>
+		<city>
+			<name>Bollnäs</name>
+		</city>
+		<city>
+			<name>Gävle</name>
+			<tradgard>Furuviksparken</tradgard>
+		</city>
+		<city>
+			<name>Hofors</name>
+		</city>
+		<city>
+			<name>Hudiksvall</name>
+		</city>
+		<city>
+			<name>Ljusdal</name>
+		</city>
+		<city>
+			<name>Nordanstig</name>
+		</city>
+		<city>
+			<name>Ockelbo</name>
+		</city>
+		<city>
+			<name>Ovanåker</name>
+		</city>
+		<city>
+			<name>Sandviken</name>
+		</city>
+		<city>
+			<name>Söderhamn</name>
+		</city>
+</landscape> 

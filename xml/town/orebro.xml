@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE orebro_objects SYSTEM "orebro.dtd">
+
+<landscape>
+  <landscapename>Örebro</landscapename>
+		<city>
+			<name>Askersund</name>
+		</city>
+		<city>
+			<name>Degerfors</name>
+		</city>
+		<city>
+			<name>Hallsberg</name>
+		</city>
+		<city>
+			<name>Hällefors</name>
+		</city>
+		<city>
+			<name>Karlskoga<name>
+		</city>
+		<city>
+			<name>Kumla</name>
+		</city>
+		<city>
+			<name>Laxå</name>
+		</city>
+		<city>
+			<name>Lekeberg</name>
+		</city>
+		<city>
+			<name>Lindesberg</name>
+		</city>
+		<city>
+			<name>Ljusnarsberg</name>
+		</city>
+		<city>
+			<name>Nora</name>
+		</city>
+		<city>
+			<name>Örebro</name>
+		</city>
+</landscape>  

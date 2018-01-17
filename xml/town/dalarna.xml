@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE dalarna_objects SYSTEM "dalarna.dtd">
+
+<landscape>
+  <landscapename>Dalarna</landscapename>
+		<city>
+			<name>Avesta</name>
+		</city>
+		<city>
+			<name>Borlänge</name>
+		</city>
+		<city>
+			<name>Falun</name>
+		</city>
+		<city>
+			<name>Gagnef</name>
+		</city>
+		<city>
+			<name>Hedemora</name>
+		</city>
+		<city type="garden">
+			<name>Leksand</name>
+			<tradgard>Hildasholm</tradgard>
+		</city>
+		<city>
+			<name>Ludvika</name>
+		</city>
+		<city>
+			<name>Malung</name>
+		</city>
+		<city>
+			<name>Mora</name>
+		</city>
+		<city>
+			<name>Orsa</name>
+		</city>
+		<city>
+			<name>Rättvik</name>
+		</city>
+		<city>
+			<name>Smedjebacken</name>
+		</city>
+		<city>
+			<name>Säter</name>
+		</city>
+		<city>
+			<name>Vansbro</name>
+		</city>
+		<city>
+			<name>Älvdalen</name>
+		</city>
+</landscape>    

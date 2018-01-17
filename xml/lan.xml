@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE landscape_objects SYSTEM "landscape.dtd">
+
+<landscape>
+  <name>Blekinge</name>
+</landscape>
+<landscape>
+  <name>Dalarna</name>
+</landscape>
+<landscape>
+  <name>Gotland</name>
+</landscape>
+<landscape>
+  <name>Gävleborg</name>
+</landscape>
+<landscape>
+  <name>Halland</name>
+</landscape>
+<landscape>
+  <name>Jämtland</name>
+</landscape>
+<landscape>
+  <name>Jönköping</name>
+</landscape>
+<landscape>
+  <name>Kalmar</name>
+</landscape>
+<landscape>
+  <name>Kronoberg</name>
+</landscape>
+<landscape>
+  <name>Norrbotten</name>
+</landscape>
+<landscape>
+  <name>Skåne</name>
+</landscape>
+<landscape>
+  <name>Stockholm</name>
+</landscape>
+<landscape>
+  <name>Södermanland</name>
+</landscape>
+<landscape>
+  <name>Uppsala</name>
+</landscape>
+<landscape>
+  <name>Värmland</name>
+</landscape>
+<landscape>
+  <name>Västerbotten</name>
+</landscape>
+<landscape>
+  <name>Västernorrland</name>
+</landscape>
+<landscape>
+  <name>Västermanland</name>
+</landscape>
+<landscape>
+  <name>Västra götaland</name>
+</landscape>
+<landscape>
+  <name>Örebro</name>
+</landscape>
+<landscape>
+  <name>Östergötland</name>
+</landscape>
+
+

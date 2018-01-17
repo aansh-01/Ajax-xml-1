@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE vastermanland_objects SYSTEM "vastermanland.dtd">
+
+<landscape>
+  <landscapename>Västermanland</landscapename>
+		<city>
+			<name>Arboga</name>
+		</city>
+		<city>
+			<name>Fagersta</name>
+		</city>
+		<city>
+			<name>Hallstahammar</name>
+		</city>
+		<city>
+			<name>Kungsör</name>
+		</city>
+		<city>
+			<name>Köping</name>
+		</city>
+		<city>
+			<name>Norberg</name>
+		</city>
+		<city>
+			<name>Sala</name>
+		</city>
+		<city>
+			<name>Skinnskatteberg</name>
+		</city>
+		<city>
+			<name>Surahammar</name>
+		</city>
+		<city>
+			<name>Västerås</name>
+		</city>
+</landscape>  

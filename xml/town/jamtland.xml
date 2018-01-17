@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE jamtland_objects SYSTEM "jamtland.dtd">
+
+<landscape>
+  <landscapename>Jämtland</landscapename>
+		<city>
+			<name>Berg</name>
+		</city>
+		<city>
+			<name>Bräcke</name>
+		</city>
+		<city>
+			<name>Härjedalen</name>
+		</city>
+		<city>
+			<name>>Krokom</name>
+		</city>
+		<city>
+			<name>Ragunda</name>
+		</city>
+		<city>
+			<name>Strömsund</name>
+		</city>
+		<city>
+			<name>Åre</name>
+		</city>
+		<city>
+			<name>Östersund</name>
+		</city>
+</landscape> 

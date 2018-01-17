@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE jonkoping_objects SYSTEM "jonkoping.dtd">
+
+<landscape>
+  <landscapename>Jönköping</landscapename>
+		<city>
+			<name>Aneby</name>
+		</city>
+		<city>
+			<name>Eksjö</name>
+		</city>
+		<city>
+			<name>Gislaved</name>
+		</city>
+		<city>
+			<name>Gnosjö</name>
+		</city>
+		<city>
+			<name>Habo</name>
+		</city>
+		<city>
+			<name>Jönköping</name>
+		</city>
+		<city>
+			<name>Mullsjö</name>
+		</city>
+		<city>
+			<name>Nässjö</name>
+		</city>
+		<city>
+			<name>Sävsjö</name>
+		</city>
+		<city>
+			<name>Tranås</name>
+		</city>
+		<city>
+			<name>Vaggery</name>
+		</city>
+		<city>
+			<name>Vetlanda</name>
+		</city>
+		<city>
+			<name>Värnamo</name>
+		</city>
+</landscape> 

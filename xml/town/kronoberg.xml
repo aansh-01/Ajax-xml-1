@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE kronoberg_objects SYSTEM "kronoberg.dtd">
+
+<landscape>
+  <landscapename>Kronoberg</landscapename>
+		<city>
+			<name>Alvesta</name>
+		</city>
+		<city>
+			<name>Lessebo</name>
+		</city>
+		<city>
+			<name>Ljungby</name>
+		</city>
+		<city>
+			<name>Markaryd</name>
+		</city>
+		<city>
+			<name>Tingsryd</name>
+		</city>
+		<city>
+			<name>Uppvidinge<name>
+		</city>
+		<city>
+			<name>Växjö</name>
+		</city>
+		<city>
+			<name>Älmhult</name>
+		</city>
+</landscape> 

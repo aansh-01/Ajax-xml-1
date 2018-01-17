@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ostergotland_objects SYSTEM "ostergotland.dtd">
+
+<landscape>
+  <landscapename>Östergötland</landscapename>
+		<city>
+			<name>Boxholm</name>
+		</city>
+		<city>
+			<name>Finspång</name>
+		</city>
+		<city>
+			<name>Kinda</name>
+		</city>
+		<city>
+			<name>Linköping</name>
+			<tradgard>Trädgårdsföreningen</tradgard>
+		</city>
+		<city>
+			<name>Mjölby</name>
+		</city>
+		<city>
+			<name>Motala</name>
+		</city>
+		<city>
+			<name>Norrköping</name>
+			<tradgard>Carl Johans park</tradgard>
+		</city>
+
+		<city>
+			<name>Söderköping</name>
+		</city>
+		<city>
+			<name>Vadstena</name>
+		</city>
+		<city>
+			<name>Valdemarsvik</name>
+		</city>
+		<city>
+			<name>Ydre</name>
+		</city>
+		<city>
+			<name>Åtvidaberg</name>
+		</city>
+		<city>
+			<name>Ödeshög</name>
+		</city>
+</landscape>  

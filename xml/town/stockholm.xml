@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE stockholm_objects SYSTEM "stockholm.dtd">
+
+<landscape>
+  <landscapename>Stockholm</landscapename>
+	  <city>
+				<name>Botkyrka</name>
+		</city>
+		<city>
+				<name>Danderyd</name>
+		</city>
+		<city>
+				<name>Ekerö</name>
+		</city>
+		<city>
+			<name>Haninge</name>
+			<tradgard>Brageparken</tradgard>
+			<tradgard>Eskilsparken</tradgard>
+			<tradgard>Tungelsta trädgårdspark</tradgard>
+		</city>
+		<city>
+			<name>Huddinge</name>
+		</city>
+		<city>
+			<name>Järfälla</name>
+		</city>
+		<city>
+			<name>Lidingö</name>
+		</city>
+		<city>
+			<name>Nacka</name>
+		</city>
+		<city>
+			<name>Norrtälje</name>
+		</city>
+		<city>
+			<name>Nykvarn</name>
+		</city>
+		<city>
+			<name>Nynäshamn</name>
+		</city>
+		<city>
+			<name>Salem</name>
+		</city>
+		<city>
+			<name>Sigtuna</name>
+		</city>
+		<city>
+			<name>Sollentuna</name>
+		</city>
+		<city>Solna</city>
+		<city>
+			<name>Stockholm</name>
+			<tradgard>Humlegården</tradgard>
+			<tradgard>Kungsträdgården</tradgard>
+		</city>
+		<city>
+			<name>Sundbyberg</name>
+		</city>
+		<city>
+			<name>Södertälje</name>
+		</city>
+		<city>
+			<name>Tyresö</name>
+		</city>
+		<city>
+			<name>Täby</name>
+		</city>
+		<city>
+			<name>Upplands-Bro</name>
+		</city>
+		<city>
+			<name>Upplands Väsby</name>
+		</city>
+		<city>
+			<name>Vallentuna</name>
+		</city>
+		<city>
+			<name>Vaxholm</name>
+		</city>
+		<city>
+			<name>Värmdö</name>
+		</city>
+		<city>
+			<name>Österåker<name>
+		</city>
+</landscape>  

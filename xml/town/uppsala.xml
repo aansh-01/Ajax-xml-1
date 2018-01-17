@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE uppsala_objects SYSTEM "uppsala.dtd">
+
+<landscape>
+  <landscapename>Uppsala</landscapename>
+		<city>
+			<name>Enköping</name>
+		</city>
+		<city>
+			<name>Heby</name>
+		</city>
+		<city>	
+			<name>Håbo</name>
+		</city>
+		<city>
+			<name>Knivsta</name>
+		</city>
+		<city>
+			<name>Tierp</name>
+		</city>
+		<city>	
+			<name>Uppsala</name>
+		</city>
+		<city>
+			<name>Älvkaleby</name>
+		</city>
+		<city>
+			<name>Östhammar</name>
+		</city>
+</landscape>  

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE sodermanland_objects SYSTEM "sodermanland.dtd">
+
+<landscape>
+  <landscapename>Södermanland</landscapename>
+		<city>
+			<name>Eskilstuna<name>
+		</city>
+		<city>
+			<name>Flen<name>
+		</city>
+		<city>Gnesta</city>
+		<city>
+			<name>Katrineholm</name>
+			<tradgard>Julita</tradgard>
+		</city>
+		<city>
+			<name>Nyköping</name>
+		</city>
+		<city>
+			<name>Oxelösund</name>
+		</city>
+		<city>
+			<name>Strängnäs</name>
+		</city>
+		<city>
+			<name>Trosa</name>
+		</city>
+		<city>
+			<name>Vingåker</name>
+		</city>
+</landscape>  

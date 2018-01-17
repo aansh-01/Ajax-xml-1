@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE blekinge_objects SYSTEM "blekinge.dtd">
+
+<landscape>
+  <landscapename>Blekinge</landscapename>
+
+		<city>
+			<name>Karlshamn</name>
+		</city>	
+		<city type="garden">
+			<name>Karlskrona</name>
+			<tradgard>Hoglands park</tradgard>
+		</city>
+		<city>
+			<name>Olofström</name>
+		</city>
+		<city type="garden">
+			<name>Ronneby</name>
+			<tradgard>Ronneby Brunn</tradgard>
+		</city>
+		<city>
+			<name>Sölvesborg</name>
+		</city>
+</landscape>    

@@ -3,20 +3,17 @@
 
 <landscape>
   <landscapename>Stockholm</landscapename>
-	  <city>
-				<name>Botkyrka</name>
+		<city>
+			<name>Botkyrka</name>
 		</city>
 		<city>
-				<name>Danderyd</name>
+			<name>Danderyd</name>
 		</city>
 		<city>
-				<name>Ekerö</name>
+			<name>Ekerö</name>
 		</city>
 		<city>
 			<name>Haninge</name>
-			<tradgard>Brageparken</tradgard>
-			<tradgard>Eskilsparken</tradgard>
-			<tradgard>Tungelsta trädgårdspark</tradgard>
 		</city>
 		<city>
 			<name>Huddinge</name>
@@ -48,11 +45,11 @@
 		<city>
 			<name>Sollentuna</name>
 		</city>
-		<city>Solna</city>
+		<city>
+			<name>Solna</name>
+		</city>
 		<city>
 			<name>Stockholm</name>
-			<tradgard>Humlegården</tradgard>
-			<tradgard>Kungsträdgården</tradgard>
 		</city>
 		<city>
 			<name>Sundbyberg</name>
@@ -82,6 +79,6 @@
 			<name>Värmdö</name>
 		</city>
 		<city>
-			<name>Österåker<name>
+			<name>Österåker</name>
 		</city>
-</landscape>  
+</landscape> 

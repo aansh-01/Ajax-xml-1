@@ -3,16 +3,18 @@
 
 <landscape>
   <landscapename>Södermanland</landscapename>
+
 		<city>
-			<name>Eskilstuna<name>
+			<name>Eskilstuna</name>
+		</city>	
+		<city>
+			<name>Flen</name>
 		</city>
 		<city>
-			<name>Flen<name>
+			<name>Gnesta</name>
 		</city>
-		<city>Gnesta</city>
 		<city>
 			<name>Katrineholm</name>
-			<tradgard>Julita</tradgard>
 		</city>
 		<city>
 			<name>Nyköping</name>
@@ -29,4 +31,4 @@
 		<city>
 			<name>Vingåker</name>
 		</city>
-</landscape>  
+</landscape>    

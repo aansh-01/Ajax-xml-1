@@ -7,16 +7,14 @@
 		<city>
 			<name>Karlshamn</name>
 		</city>	
-		<city type="garden">
+		<city>
 			<name>Karlskrona</name>
-			<tradgard>Hoglands park</tradgard>
 		</city>
 		<city>
 			<name>Olofström</name>
 		</city>
-		<city type="garden">
+		<city>
 			<name>Ronneby</name>
-			<tradgard>Ronneby Brunn</tradgard>
 		</city>
 		<city>
 			<name>Sölvesborg</name>

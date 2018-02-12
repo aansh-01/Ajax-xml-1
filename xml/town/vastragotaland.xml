@@ -2,7 +2,7 @@
 <!DOCTYPE vastragotaland_objects SYSTEM "vastragotaland.dtd">
 
 <landscape>
-  <landscapename>Västra götaland</landscapename>
+  <landscapename>Skåne</landscapename>
 		<city>
 			<name>Ale</name>
 		</city>
@@ -52,7 +52,7 @@
 			<name>Härryda</name>
 		</city>
 		<city>
-			<name>Karsborg</name>
+			<name>Karlsborg</name>
 		</city>
 		<city>
 			<name>Kungälv</name>
@@ -106,7 +106,7 @@
 			<name>Strömstad</name>
 		</city>
 		<city>
-			<name>Svenljunga/<name>
+			<name>Svenljunga</name>
 		</city>
 		<city>
 			<name>Tanum</name>
@@ -150,4 +150,4 @@
 		<city>
 			<name>Öckerö</name>
 		</city>
-</landscape>  
+</landscape> 
